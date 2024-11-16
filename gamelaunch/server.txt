@@ -1,3 +1,6 @@
 Untitled SONIC Tag Game
 https://tapcacro.github.io/gamelaunch/sonictag.zip
 001
+Super Bo Noise
+https://tapcacro.github.io/gamelaunch/bonoise_test.zip
+001
