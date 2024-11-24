@@ -1,0 +1,1 @@
+image1.png||.||make_image_happy.xdelta
